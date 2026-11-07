@@ -37,8 +37,8 @@
 | [**VET.FACE**](https://github.com/alvesdelima/vetface-agendamento-online) | Agendamento online de consultas veterinárias com Google Calendar e workflows n8n | JS · Supabase · n8n |
 | [**TicketFlow**](https://github.com/alvesdelima/ticketflow) | Sistema de chamados com perfis de cliente, técnico e administrador | Django REST |
 | [**Calculadora Fênix**](https://github.com/alvesdelima/calculadora-fenix) | Calculadora de renda recorrente para corretores de seguro | HTML · JS |
-| [**CTM Central de Leads**](https://github.com/alvesdelima/ctm-central-leads) | Central de captação e gestão de leads | JS · API |
-| [**InfoDesk**](https://github.com/alvesdelima/info_desk) | Painel de atendimento com CRM, conversas e autenticação | JS · Supabase |
+| [**Task Manager API**](https://github.com/alvesdelima/task_manager_api) | API REST de tarefas com autenticação JWT | Flask · SQLAlchemy |
+| [**InfoDesk**](https://github.com/alvesdelima/info_desk) | Painel de atendimento com CRM, conversas de WhatsApp e pipeline de leads | JS · Supabase |
 | [**Gerador de UTMs**](https://github.com/alvesdelima/gokursos_utm_generator) | Padronização de UTMs para todos os canais de marketing | HTML · JS |
 
 > Boa parte dos meus projetos de clientes é privada. Se quiser ver mais, é só me chamar por e-mail.
